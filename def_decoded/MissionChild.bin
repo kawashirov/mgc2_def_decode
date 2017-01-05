@@ -1,13 +1,6 @@
 
 
 
-
-
-
-
-
-
-
 金币召唤
 
 完成一次金币10连召唤
@@ -19,17 +12,7 @@ Make Coins Summon 10 times
 金貨十回召喚を利用する
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 职位变更
@@ -43,21 +26,7 @@ Set 1 employee to chef mode
 店員一名をコックにする
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 职位变更
@@ -71,21 +40,7 @@ Set 1 employee to server mode
 店員一名をウェーターにする
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 做菜
@@ -99,29 +54,7 @@ Make 1 Maid Omurice
 メイドオムレツを作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 使用体力药
@@ -135,21 +68,7 @@ Drink 1 energy drink
 スタミナポーションを使う
 
 
-
-
-
-
-
-
-
 sm_tips_monitortype27.lua
-
-
-
-
-
-
-
 
 
 购买装饰
@@ -163,21 +82,7 @@ Buy a Small Potted Plant
 小型盆栽を購入する
 
 
-
-
-
-
-
-
-
 sm_tips_monitortype46-52_84-86.lua
-
-
-
-
-
-
-
 
 
 送礼物
@@ -191,26 +96,7 @@ Send 1 Gift to an Employee
 店員にプレゼントを贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 sm_tips_staff_gift.lua
-
-
-
-
-
-
-
 
 
 购买衣服
@@ -224,21 +110,7 @@ Buy 1 outfit for employees
 服飾店で店員に任意の衣装を買う
 
 
-
-
-
-
-
-
-
 sm_tips_monitortype37-40.lua
-
-
-
-
-
-
-
 
 
 购买灶台
@@ -252,25 +124,7 @@ Buy 1 Classic Stove
 調理台を購入する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 友情值
@@ -284,21 +138,7 @@ Gain 1 Friendship
 友情値を獲得する
 
 
-
-
-
-
-
-
-
 sm_tips_monitortype71.lua
-
-
-
-
-
-
-
 
 
 扩张
@@ -312,21 +152,7 @@ Expand the restaurant to 8x7
 店を8X7まで拡張する
 
 
-
-
-
-
-
-
-
 sm_tips_monitortype45.lua
-
-
-
-
-
-
-
 
 
 购买墙纸
@@ -340,21 +166,7 @@ Buy 1 Wallpaper which you like
 任意の壁紙を購入する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 宣传次数
@@ -368,21 +180,7 @@ Complete 1 PR trip to the Residential Area
 ニャル町で宣伝をする
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 借店员
@@ -396,25 +194,7 @@ borrow 1 Employee from a friend
 フレンドから店員を借りる
 
 
-
-
-
-
-
-
-
-
-
-
-
 sm_tips_monitortype112.lua
-
-
-
-
-
-
-
 
 
 宣传次数
@@ -428,21 +208,7 @@ Complete 1 PR trip to the Residential Area
 ニャル町で宣伝をする
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 送礼物
@@ -456,21 +222,7 @@ Give 1 Gift to an SP Guest
 SP客にプレゼントを贈る
 
 
-
-
-
-
-
-
-
 sm_tips_sp_favor.lua
-
-
-
-
-
-
-
 
 
 购买二楼室内装饰
@@ -484,25 +236,7 @@ Buy 1 Recliner
 休憩室ソファを購入する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 合体
@@ -516,26 +250,7 @@ Make 1 Combination
 合体を行う
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 sm_tips_staff_level_limit.lua
-
-
-
-
-
-
-
 
 
 绿色品质
@@ -549,21 +264,7 @@ Have one Green Character Employee
 資質緑の店員を所有する
 
 
-
-
-
-
-
-
-
 sm_tips_monitortype120-123.lua
-
-
-
-
-
-
-
 
 
 店员等级
@@ -577,25 +278,7 @@ Have an employee reach Lv. 4
 店員がレベル4に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 Party
@@ -609,17 +292,7 @@ Hold 1 Parties
 パーティを1回開く
 
 
-
-
-
-
-
-
-
 sm_tips_party.lua
-
-
-
 
 
 做菜
@@ -633,33 +306,7 @@ Make 4 Maid Omurice
 メイドオムレツを4回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 研发
@@ -673,25 +320,7 @@ Upgrade Maid Omurice to Lv. 2
 メイドオムレツのランクを星2まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 sm_tips_monitortype17-19.lua
-
-
-
-
-
-
-
 
 
 神秘商人
@@ -705,21 +334,7 @@ Buy 1 item from the Mystery Store
 ミスティックショップで商品を買う
 
 
-
-
-
-
-
-
-
 sm_tips_mystic_shop.lua
-
-
-
-
-
-
-
 
 
 购买墙纸
@@ -733,21 +348,7 @@ Buy 1 Wallpaper
 任意の壁紙を購入する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 做菜
@@ -761,33 +362,7 @@ Make 2 Maid Omurice
 メイドオムレツを2回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 研发
@@ -801,23 +376,7 @@ Upgrade  Miso Ramen to Lv. 1
 味噌ラーメンをのランクを星1まで上がる
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 送礼物
@@ -831,25 +390,7 @@ Send 1 Gift to an Employee
 店員にプレゼントを1回贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 摸头
@@ -863,17 +404,7 @@ Rub head and make employees happy once
 なでなでして店員を1回喜ばせる
 
 
-
-
-
 null
-
-
-
-
-
-
-
 
 
 好感度
@@ -887,21 +418,7 @@ Get 1 heart affection rating with an employee
 店員の好感度をハート1まで上げる
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 研发
@@ -915,25 +432,7 @@ Upgrade Soda to Lv. 1
 コーラをのランクを星1まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 卖出料理
@@ -947,23 +446,10 @@ Sell 100 gold worth of food
 料理で100ゴールドを儲かる
 
 
-
-
-
 d
 
 
-
-
-
 null
-
-
-
-
-
-
-
 
 
 卖出料理
@@ -977,24 +463,7 @@ Sell 10 dishes
 料理を10人分売る
 
 
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 神秘商人
@@ -1008,21 +477,7 @@ Buy 1 item from the Mystery Store
 ミスティックショップで商品を買う
 
 
-
-
-
-
-
-
-
 sm_tips_mystic_shop.lua
-
-
-
-
-
-
-
 
 
 宣传次数
@@ -1036,23 +491,7 @@ Complete 2 PR trip to the Residential Area
 ニャル町で2回宣伝をする
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 宣传等级
@@ -1066,23 +505,7 @@ Reach Residential Marketing Lv. 2
 ニャル町で宣伝レベル2に達する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 友情值
@@ -1096,25 +519,7 @@ Gain 3 Friendship
 友情値を3個獲得する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 借店员
@@ -1128,25 +533,7 @@ borrow 1 Employees from a friend
 フレンドに店員を1回借りる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 送礼物
@@ -1160,25 +547,7 @@ Give 2 Gift to an SP Guest
 SP客にプレゼントを2回贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 关注
@@ -1192,25 +561,7 @@ Follow 10 people
 お気に入りの数が10人に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
 sm_tips_monitortype57.lua
-
-
-
-
-
-
-
 
 
 做菜
@@ -1224,29 +575,7 @@ Make 5 meals
 任意の料理を5回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 申请打工
@@ -1260,25 +589,7 @@ Apply for 1 temp job
 兼職申請をする
 
 
-
-
-
-
-
-
-
-
-
-
-
 sm_tips_monitortype63.lua
-
-
-
-
-
-
-
 
 
 做菜
@@ -1292,33 +603,7 @@ Make 4 Orange Juice
 オレンジジュース4回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 卖出料理
@@ -1332,23 +617,7 @@ Sell 30 dishes
 料理を30人分売る
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 购买桌子
@@ -1362,21 +631,7 @@ Buy 1 table
 テーブルを購入する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 金币训练
@@ -1390,21 +645,7 @@ Take 1 gold trainings
 訓練を1回行う
 
 
-
-
-
-
-
-
-
 sm_tips_monitortype29_141.lua
-
-
-
-
-
-
-
 
 
 合体
@@ -1418,25 +659,7 @@ Make 1 Combination
 合体を1回行う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 店员等级
@@ -1450,25 +673,7 @@ Have an employee reach Lv. 6
 店員がレベル6に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 宣传等级
@@ -1482,23 +687,7 @@ Reach Residential Marketing Lv. 3
 ニャル町で宣伝レベル3に達する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 送礼物
@@ -1512,21 +701,7 @@ Give 1 Gift to an SP Guest
 SP客にプレゼントを1回贈る
 
 
-
-
-
-
-
-
-
 sm_tips_sp_favor.lua
-
-
-
-
-
-
-
 
 
 SP顾客好感度
@@ -1540,21 +715,7 @@ Get 1 heart affection rating with an SP Guest
 SP客の好感度がハート1に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 餐厅等级
@@ -1568,21 +729,7 @@ Get your restaurant to Lv. 16
 レストランのレベルが16に達する
 
 
-
-
-
-
-
-
-
 sm_tips_levelup.lua
-
-
-
-
-
-
-
 
 
 训练
@@ -1596,23 +743,7 @@ Train stats + 5 points
 訓練でステータスを5ポイントを上げる
 
 
-
-
-
-
-
-
-
-
-
 sm_tips_monitortype29_141.lua
-
-
-
-
-
-
-
 
 
 扩张
@@ -1626,23 +757,7 @@ Expand the restaurant to 8x8
 店を8X8まで拡張する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 做菜
@@ -1656,29 +771,7 @@ Make 2 Taiyaki
 鯛焼きを２回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 购买橱柜
@@ -1692,21 +785,7 @@ Buy 1 Cupboard
 戸棚を購入する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 友情值
@@ -1720,25 +799,7 @@ Gain 100 Friendship
 友情値を100個獲得する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 解锁菜品
@@ -1752,25 +813,7 @@ Learn how to cook 9 types of dishes
 メニューを9つまで覚える
 
 
-
-
-
-
-
-
-
-
-
-
-
 sm_tips_monitortype125.lua
-
-
-
-
-
-
-
 
 
 宣传等级
@@ -1784,23 +827,7 @@ Reach Residential Marketing Lv. 4
 ニャル町で宣伝レベル4に達する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 SP顾客好感度
@@ -1814,21 +841,7 @@ Get 2 heart affection rating with an SP Guest
 SP客の好感度がハート2に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 蓝色品质
@@ -1842,21 +855,7 @@ Have one Blue Character Employee
 資質青の店員を所有する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 合体
@@ -1870,29 +869,7 @@ Make 2 Combination
 合体を2回行う
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 训练
@@ -1906,23 +883,7 @@ Train stats + 8 points
 訓練でステータスを8ポイントを上げる
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 送礼物
@@ -1936,21 +897,7 @@ Give 4 Gift to an SP Guest
 SP客にプレゼントを4回贈る
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 SP顾客好感度
@@ -1964,21 +911,7 @@ Get 3 heart affection rating with an SP Guest
 SP客の好感度がハート3に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 购买装饰
@@ -1992,21 +925,7 @@ Buy 1 first floor decoration
 一階用装飾を購入する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 满意度上限
@@ -2020,19 +939,7 @@ Pleasure limit reaches 150
 満足度の上限が150に達する
 
 
-
-
-
-
-
 sm_tips_favor_limit.lua
-
-
-
-
-
-
-
 
 
 研发
@@ -2046,25 +953,7 @@ Upgrade Maid Omurice to Lv. 3
 メイドオムレツのランクを星3まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 餐厅等级
@@ -2078,21 +967,7 @@ Get your restaurant to Lv. 20
 レストランのレベルが20に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 关注
@@ -2106,25 +981,7 @@ Follow 15 people
 お気に入りの数が15人に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 雇佣
@@ -2138,29 +995,7 @@ Accept to temp work contracts twice
 2回バイトの申請を了承する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 sm_tips_monitortype114.lua
-
-
-
-
-
-
-
 
 
 Party
@@ -2174,15 +1009,7 @@ Hold 1 Parties
 パーティを1回開く
 
 
-
-
-
-
-
-
-
 null
-
 
 
 H
@@ -2198,33 +1025,7 @@ Make 6 Sandwich
 サンドイッチを6回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 卖出料理
@@ -2238,23 +1039,7 @@ Sell 5000 gold worth of food
 料理で5000ゴールドを儲かる
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 扩张
@@ -2268,23 +1053,7 @@ Expand the restaurant to 9x8
 店を9X8まで拡張する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 购买装饰
@@ -2298,21 +1067,7 @@ Buy 1 first floor decoration
 一階用装飾を購入する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 摸头
@@ -2326,21 +1081,7 @@ Rub head and make employees happy 5 times
 なでなでして店員を5回喜ばせる
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 送礼物
@@ -2354,25 +1095,7 @@ Send 3 Gift to an Employee
 店員にプレゼントを3回贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 购买装扮
@@ -2386,21 +1109,7 @@ Buy 1 decoration for employees
 服飾店で店員に任意の飾りを買う
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 宣传次数
@@ -2414,23 +1123,7 @@ Complete 5 PR trip to the Residential Area
 ニャル町で5回宣伝をする
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 宣传等级
@@ -2444,23 +1137,7 @@ Reach Residential Marketing Lv. 5
 ニャル町で宣伝レベル5に達する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 送礼物
@@ -2474,25 +1151,7 @@ Send 4 Gift to an Employee
 店員にプレゼントを4回贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 SP顾客好感度
@@ -2506,21 +1165,7 @@ Raise SP Guest's affection rating to 4
 SP客の好感度がハート4に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 购买头饰
@@ -2534,21 +1179,7 @@ Buy 1 head accessory for employees
 服飾店で店員に任意の頭部飾を買う
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 金币训练
@@ -2562,25 +1193,7 @@ Take 3 gold trainings
 訓練を3回行う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 合体
@@ -2594,29 +1207,7 @@ Make 5 Combination
 合体を5回行う
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 店员等级
@@ -2630,25 +1221,7 @@ Have an employee reach Lv. 15
 店員がレベル15に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 解锁菜品
@@ -2662,25 +1235,7 @@ Learn how to cook 12 types of dishes
 メニューを12つまで覚える
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 Party
@@ -2694,17 +1249,7 @@ Hold 2 Parties
 パーティを2回開く
 
 
-
-
-
-
-
-
-
-
-
 null
-
 
 
 Y
@@ -2720,21 +1265,7 @@ Sell 350 dishes
 料理を350人分売る
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 扩张
@@ -2748,23 +1279,7 @@ Expand the restaurant to 9x9
 店を9X9まで拡張する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 餐厅等级
@@ -2778,21 +1293,7 @@ Get your restaurant to Lv. 23
 レストランのレベルが23に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 拜访好友
@@ -2806,25 +1307,7 @@ Visits friends 30 times
 フレンド訪問30回する
 
 
-
-
-
-
-
-
-
-
-
-
-
 sm_tips_monitortype59.lua
-
-
-
-
-
-
-
 
 
 友情值
@@ -2838,23 +1321,7 @@ Gain 200 Friendship
 友情値を200個獲得する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 雇佣
@@ -2868,29 +1335,7 @@ Accept to temp work contracts 3 times
 3回バイトの申請を了承する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 宣传次数
@@ -2904,23 +1349,7 @@ Complete 5 PR trip to the Residential Area
 ニャル町で5回宣伝をする
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 宣传等级
@@ -2934,23 +1363,7 @@ Reach Residential Marketing Lv. 6
 ニャル町で宣伝レベル6に達する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 送礼物
@@ -2964,25 +1377,7 @@ Send 5 Gift to an Employee
 店員にプレゼントを5回贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 召唤店员
@@ -2996,25 +1391,7 @@ Summon three employees
 店員を三回召喚する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 购买脸饰
@@ -3028,21 +1405,7 @@ Buy 1 face accessory for employees
 服飾店で店員に任意の顔飾を買う
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 做菜
@@ -3056,33 +1419,7 @@ Make 8 Spring Roll
 春巻きを8回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 卖出料理
@@ -3096,23 +1433,7 @@ Sell 700 dishes
 料理を700人分売る
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 研发
@@ -3126,25 +1447,7 @@ Upgrade Sandwich to Lv. 2
 サンドイッチのランクを星2まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 使用体力药
@@ -3158,25 +1461,7 @@ Drink 2 energy drink
 スタミナポーションを2回使う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 Combo2
@@ -3190,25 +1475,7 @@ Reach 3 Combo 2s
 コンボ2を3回達成する
 
 
-
-
-
-
-
-
-
-
-
-
-
 sm_tips_combo.lua
-
-
-
-
-
-
-
 
 
 训练
@@ -3222,23 +1489,7 @@ Train stats + 8 points
 訓練でステータスを8ポイントを上げる
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 扩张
@@ -3252,23 +1503,7 @@ Expand the restaurant to 10x9
 店を10X9まで拡張する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 购买装饰
@@ -3282,21 +1517,7 @@ Buy 1 first floor decoration
 一階用装飾を購入する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 购买地板
@@ -3310,21 +1531,7 @@ Buy 1 floor
 床材を購入する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 申请打工
@@ -3338,29 +1545,7 @@ Apply for 8 temp job
 兼職申請を8回する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 借店员
@@ -3374,29 +1559,7 @@ borrow 10 Employees from a friend
 フレンドに店員を10回借りる
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 满意度上限
@@ -3410,17 +1573,7 @@ Pleasure limit reaches 400
 満足度の上限が400に達する
 
 
-
-
-
 null
-
-
-
-
-
-
-
 
 
 神秘商人
@@ -3434,23 +1587,7 @@ Buy 3 item from the Mystery Store
 ミスティックショップで商品を3回買う
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 宣传奖励
@@ -3464,19 +1601,7 @@ Claim 2 outside advertising prizes
 外出宣伝のボーナスを2回貰う
 
 
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 宣传等级
@@ -3490,23 +1615,7 @@ Reach Residential Marketing Lv. 7
 ニャル町で宣伝レベル7に達する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 做菜
@@ -3520,33 +1629,7 @@ Make 12 Hamburger
 ハンバーガーを12回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 卖出料理
@@ -3560,23 +1643,7 @@ Sell 900 dishes
 料理を900人分売る
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 Party
@@ -3590,17 +1657,7 @@ Hold 2 Parties
 パーティを2回開く
 
 
-
-
-
-
-
-
-
-
-
 null
-
 
 
 v
@@ -3616,21 +1673,7 @@ Give 5 Gift to an SP Guest
 SP客にプレゼントを5回贈る
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 摸头
@@ -3644,21 +1687,7 @@ Rub heads making employees pout 10 times
 なでなでして店員を10回怒らせる
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 店员等级
@@ -3672,25 +1701,7 @@ Have an employee reach Lv. 25
 店員がレベル25に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 申请打工
@@ -3704,29 +1715,7 @@ Apply for 12 temp job
 兼職申請を12回する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 发送弹幕
@@ -3740,25 +1729,7 @@ Send 5 scrolling comments
 弾幕コメントを5回発言する
 
 
-
-
-
-
-
-
-
-
-
-
-
 sm_tips_monitortype109.lua
-
-
-
-
-
-
-
 
 
 借出店员
@@ -3772,29 +1743,7 @@ Lend out 3 employees
 店員の借り出しは3人に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 sm_tips_monitortype111.lua
-
-
-
-
-
-
-
 
 
 紫色品质
@@ -3808,21 +1757,7 @@ Have one Purple Character Employee
 資質紫の店員を所有する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 合体
@@ -3836,29 +1771,7 @@ Make 5 Combination
 合体を5回行う
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 餐厅等级
@@ -3872,21 +1785,7 @@ Get your restaurant to Lv. 27
 レストランのレベルが27に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
-
-
 
 
 宣传奖励
@@ -3900,17 +1799,7 @@ Claim 3 outside advertising prizes
 外出宣伝のボーナスを3回貰う
 
 
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传等级
@@ -3924,21 +1813,7 @@ Reach Residential Marketing Lv. 8
 ニャル町で宣伝レベル8に達する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	借店员
@@ -3952,27 +1827,7 @@ borrow 10 Employees from a friend
 フレンドに店員を10回借りる
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	送礼物
@@ -3986,19 +1841,7 @@ Give 6 Gift to an SP Guest
 SP客にプレゼントを6回贈る
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 SP顾客好感度
@@ -4012,19 +1855,7 @@ Raise Shokuhou Misaki's affection rating to 5
 リヴァイの好感度がハート5に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 做菜
@@ -4038,31 +1869,7 @@ Make 10 Wontons
 ワンタンを10回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 研发
@@ -4076,23 +1883,7 @@ Upgrade Veggie Salad to Lv. 3
 野菜サラダのランクを星3まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 Party
@@ -4106,19 +1897,7 @@ Hold 2 Parties
 パーティを2回開く
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 金币训练
@@ -4132,23 +1911,7 @@ Take 5 gold trainings
 訓練を5回行う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	好感度
@@ -4162,19 +1925,7 @@ Get 3 heart affection rating with an employee
 店員の好感度をハート3まで上げる
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 购买装扮
@@ -4188,19 +1939,7 @@ Buy 1 decoration for employees
 服飾店で店員に任意の飾りを買う
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 扩张
@@ -4214,21 +1953,7 @@ Expand the restaurant to 10x10
 店を10X10まで拡張する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 满意度上限
@@ -4242,17 +1967,7 @@ Pleasure limit reaches 750
 満足度の上限が750に達する
 
 
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传等级
@@ -4266,19 +1981,7 @@ Reach Electronics Street Marketing Lv. 3
 電気街で宣伝レベル3に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 SP顾客
@@ -4292,19 +1995,7 @@ Find 6 SP Guests
 SP客を6人発見する
 
 
-
-
-
-
-
-
-
 sm_tips_monitortype126.lua
-
-
-
-
-
 
 
 金色品质
@@ -4318,19 +2009,7 @@ Have one Gold Character Employee
 資質金の店員を所有する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 店员等级
@@ -4344,23 +2023,7 @@ Have an employee reach Lv. 40
 店員がレベル40に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 训练
@@ -4374,22 +2037,7 @@ Train stats + 10 points
 訓練でステータスを10ポイントを上げる
 
 
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 研发
@@ -4403,23 +2051,7 @@ Upgrade Maid Omurice to Lv. 4
 メイドオムレツのランクを星4まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 Party
@@ -4433,19 +2065,7 @@ Hold 3 Parties
 パーティを3回開く
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 做菜
@@ -4459,31 +2079,7 @@ Make 12 Jap Fruite Blessing
 フルーツ大福を12回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传等级
@@ -4497,19 +2093,7 @@ Reach Electronics Street Marketing Lv. 2
 電気街で宣伝レベル2に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传奖励
@@ -4523,17 +2107,7 @@ Claim 5 outside advertising prizes
 外出宣伝のボーナスを5回貰う
 
 
-
-
-
-
-
 null
-
-
-
-
-
 
 
 拜访好友
@@ -4547,23 +2121,7 @@ Visits friends 30 times
 フレンド訪問30回する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	借店员
@@ -4577,27 +2135,7 @@ borrow 15 Employees from a friend
 フレンドに店員を15回借りる
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 雇佣
@@ -4611,27 +2149,7 @@ Accept to temp work contracts 4 times
 4回バイトの申請を了承する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	送礼物
@@ -4645,23 +2163,7 @@ Send 6 Gift to an Employee
 店員にプレゼントを6回贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	好感度
@@ -4675,19 +2177,7 @@ Have one employee with a full affection meter
 店員の好感度をMAXまで上げる
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 做菜
@@ -4701,31 +2191,7 @@ Make 15 Jap Fried Tofu
 油揚げを15回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 卖出料理
@@ -4739,21 +2205,7 @@ Sell 1200 dishes
 料理を1200人分売る
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 解锁菜品
@@ -4767,23 +2219,7 @@ Learn how to cook 20 types of dishes
 メニューを20つまで覚える
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传等级
@@ -4797,21 +2233,9 @@ Reach Residential Marketing Lv. 9
 ニャル町で宣伝レベル9に達する
 
 
-
-
-
-
-
-
-
 	
 
 null
-
-
-
-
-
 
 
 SP顾客
@@ -4825,19 +2249,7 @@ Find 9 SP Guests
 SP客を9人発見する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 申请打工
@@ -4851,27 +2263,7 @@ Apply for 15 temp job
 兼職申請を15回する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	借店员
@@ -4885,27 +2277,7 @@ borrow 12 Employees from a friend
 フレンドに店員を12回借りる
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 发送弹幕
@@ -4919,23 +2291,7 @@ Send 8 scrolling comments
 弾幕コメントを8回発言する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 卖出料理
@@ -4949,21 +2305,10 @@ Sell 20000 gold worth of food
 料理で20000ゴールドを儲かる
 
 
-
-
-
  
 
 
-
-
-
 null
-
-
-
-
-
 
 
 做菜
@@ -4977,31 +2322,7 @@ Make 15 Hot Dog
 ホットドッグを15回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 Party
@@ -5015,19 +2336,7 @@ Hold 2 Parties
 パーティを2回開く
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 送礼物
@@ -5041,19 +2350,7 @@ Give 10 Gift to an SP Guest
 SP客にプレゼントを10回贈る
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 摸头
@@ -5067,19 +2364,7 @@ Rub head and make employees happy 10 times
 なでなでして店員を10回喜ばせる
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 店员等级
@@ -5093,23 +2378,7 @@ Have an employee reach Lv. 60
 店員がレベル60に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传次数
@@ -5123,21 +2392,7 @@ Complete 8 PR trip to the Residential Area
 ニャル町で8回宣伝をする
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传次数
@@ -5151,19 +2406,7 @@ Complete 5 PR trip to the Electronics Street
 電気街で5回宣伝をする
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 借出店员
@@ -5177,27 +2420,7 @@ Lend out 5 employees
 店員の借り出しは5人に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	友情值
@@ -5211,21 +2434,10 @@ Gain 600 Friendship
 友情値を600個獲得する
 
 
-
-
-
 X
 
 
-
-
-
 null
-
-
-
-
-
 
 
 拜访好友
@@ -5239,23 +2451,7 @@ Visits friends 5 times
 フレンド訪問5回する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 满意度上限
@@ -5269,17 +2465,7 @@ Pleasure limit reaches 1000
 満足度の上限が1000に達する
 
 
-
-
-
-
-
 null
-
-
-
-
-
 
 
 Party
@@ -5293,19 +2479,7 @@ Hold 5 Parties
 パーティを5回開く
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 卖出料理
@@ -5319,21 +2493,7 @@ Sell 40000 gold worth of food
 料理で40000ゴールドを儲かる
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传次数
@@ -5347,21 +2507,7 @@ Complete 6 PR trip to the Residential Area
 ニャル町で6回宣伝をする
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传次数
@@ -5375,19 +2521,7 @@ Complete 6 PR trip to the Electronics Street
 電気街で6回宣伝をする
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	送礼物
@@ -5401,23 +2535,7 @@ Send 7 Gift to an Employee
 店員にプレゼントを7回贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	好感度
@@ -5431,23 +2549,7 @@ Have 2 employee with a full affection meter
 好感度MAX店員2人達成
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 金币训练
@@ -5461,23 +2563,7 @@ Take 8 gold trainings
 訓練を8回行う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 研发
@@ -5491,19 +2577,7 @@ Upgrade a meal to Lv. 5
 ハンバーガーのランクを星4まで上がる
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 解锁菜品
@@ -5517,23 +2591,7 @@ Learn how to cook 25 types of dishes
 メニューを25つまで覚える
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 购买装饰
@@ -5547,19 +2605,7 @@ Buy 1 first floor decoration
 一階用装飾を購入する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 借出店员
@@ -5573,27 +2619,7 @@ Lend out 6 employees
 店員の借り出しは6人に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	友情值
@@ -5607,21 +2633,7 @@ Gain 180 Friendship
 友情値を180個獲得する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	送礼物
@@ -5635,23 +2647,7 @@ Send 8 Gift to an Employee
 店員にプレゼントを8回贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传奖励
@@ -5665,17 +2661,7 @@ Claim 8 outside advertising prizes
 外出宣伝のボーナスを8回貰う
 
 
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传等级
@@ -5689,19 +2675,7 @@ Reach Electronics Street Marketing Lv. 4
 電気街で宣伝レベル4に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 SP顾客
@@ -5715,19 +2689,7 @@ Find 12 SP Guests
 SP客を12人発見する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 店员等级
@@ -5741,23 +2703,7 @@ Have an employee reach Lv. 75
 店員がレベル75に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 Combo3
@@ -5771,21 +2717,7 @@ Reach 2 Combo 3s
 コンボ3を2回達成する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 满意度上限
@@ -5799,17 +2731,7 @@ Pleasure limit reaches 1500
 満足度の上限が1500に達する
 
 
-
-
-
-
-
 null
-
-
-
-
-
 
 
 做菜
@@ -5823,31 +2745,7 @@ Make 15 Steamed Buns
 小籠包を15回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 研发
@@ -5861,23 +2759,7 @@ Upgrade Melon Bread to Lv. 3
 メロンパンのランクを星3まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	借店员
@@ -5891,27 +2773,7 @@ borrow 15 Employees from a friend
 フレンドに店員を15回借りる
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 申请打工
@@ -5925,27 +2787,7 @@ Apply for 20 temp job
 兼職申請を20回する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	送礼物
@@ -5959,19 +2801,7 @@ Give 15 Gift to an SP Guest
 SP客にプレゼントを15回贈る
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传次数
@@ -5985,19 +2815,7 @@ Complete 6 PR trip to the Electronics Street
 電気街で6回宣伝をする
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	送礼物
@@ -6011,23 +2829,7 @@ Send 6 Gift to an Employee
 店員にプレゼントを6回贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	好感度
@@ -6041,23 +2843,7 @@ Have 3 employee with a full affection meter
 好感度MAX店員3人達成
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 Combo3
@@ -6071,21 +2857,7 @@ Reach 3 Combo 3s
 コンボ3を3回達成する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 店员等级
@@ -6099,23 +2871,7 @@ Have an employee reach Lv. 85
 店員がレベル85に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 餐厅等级
@@ -6129,19 +2885,7 @@ Get your restaurant to Lv. 37
 レストランのレベルが37に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 卖出料理
@@ -6155,21 +2899,7 @@ Sell 1500 dishes
 料理を1500人分売る
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 Party
@@ -6183,19 +2913,7 @@ Hold 2 Parties
 パーティを2回開く
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 友情值
@@ -6209,19 +2927,7 @@ Gain 400 Friendship
 友情値を400個獲得する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 拜访好友
@@ -6235,23 +2941,7 @@ Visits friends 35 times
 フレンド訪問35回する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 摸头
@@ -6265,19 +2955,7 @@ Rub heads making employees pout 20 times
 なでなでして店員を20回怒らせる
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传奖励
@@ -6291,18 +2969,7 @@ Claim 10 outside advertising prizes
 外出宣伝のボーナスを10回貰う
 
 
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传次数
@@ -6316,19 +2983,7 @@ Complete 7 PR trip to the Electronics Street
 電気街で7回宣伝をする
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 SP顾客
@@ -6342,19 +2997,7 @@ Find 15 SP Guests
 SP客を15人発見する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 召唤店员
@@ -6368,23 +3011,7 @@ Summon five employees
 店員を五回召喚する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 餐厅等级
@@ -6398,19 +3025,7 @@ Get your restaurant to Lv. 38
 レストランのレベルが38に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 卖出料理
@@ -6424,21 +3039,7 @@ Sell 1800 dishes
 料理を1800人分売る
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 申请打工
@@ -6452,27 +3053,7 @@ Apply for 25 temp job
 兼職申請を25回する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	送礼物
@@ -6486,23 +3067,7 @@ Send 9 Gift to an Employee
 店員にプレゼントを9回贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 摸头
@@ -6516,19 +3081,7 @@ Rub head and make employees happy 15 times
 なでなでして店員を15回喜ばせる
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	好感度
@@ -6542,23 +3095,7 @@ Have 4 employee with a full affection meter
 好感度MAX店員4人達成
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 训练
@@ -6572,21 +3109,7 @@ Train stats + 12 points
 訓練でステータスを12ポイントを上げる
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 研发
@@ -6600,23 +3123,7 @@ Upgrade Humburger to Lv. 4
 任意の料理のランクを星5まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 Party
@@ -6630,19 +3137,7 @@ Hold 3 Parties
 パーティを3回開く
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 卖出料理
@@ -6656,21 +3151,7 @@ Sell 2000 dishes
 料理を2000人分売る
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传等级
@@ -6684,19 +3165,7 @@ Reach Electronics Street Marketing Lv. 5
 電気街で宣伝レベル5に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传次数
@@ -6710,21 +3179,7 @@ Complete 8 PR trip to the Residential Area
 ニャル町で8回宣伝をする
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	借店员
@@ -6738,27 +3193,7 @@ borrow 20 Employees from a friend
 フレンドに店員を20回借りる
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 雇佣
@@ -6772,27 +3207,7 @@ Accept to temp work contracts 5 times
 5回バイトの申請を了承する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	友情值
@@ -6806,19 +3221,7 @@ Gain 500 Friendship
 友情値を500個獲得する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	好感度
@@ -6832,23 +3235,7 @@ Have 12 employee with a full affection meter
 好感度MAX店員12人達成
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 Combo3
@@ -6862,21 +3249,7 @@ Reach 6 Combo 3s
 コンボ3を6回達成する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 摸头
@@ -6890,19 +3263,7 @@ Rub heads making employees pout 20 times
 なでなでして店員を20回怒らせる
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 做菜
@@ -6916,31 +3277,7 @@ Make 20 Lasagna
 ラザニアを20回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 研发
@@ -6954,23 +3291,7 @@ Upgrade Jap Fruit Blessing to Lv. 3
 フルーツ大福のランクを星3まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 申请打工
@@ -6984,27 +3305,7 @@ Apply for 12 temp job
 兼職申請を12回する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	友情值
@@ -7018,19 +3319,7 @@ Gain 450 Friendship
 友情値を450個獲得する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 训练
@@ -7044,21 +3333,7 @@ Train stats + 15 points
 訓練でステータスを15ポイントを上げる
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 合体
@@ -7072,27 +3347,7 @@ Make 8 Combination
 合体を8回行う
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传等级
@@ -7106,19 +3361,7 @@ Reach Electronics Street Marketing Lv. 6
 電気街で宣伝レベル6に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传奖励
@@ -7132,18 +3375,7 @@ Claim 10 outside advertising prizes
 外出宣伝のボーナスを10回貰う
 
 
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 做菜
@@ -7157,31 +3389,7 @@ Make 20 Vegetable Juice
 野菜ジュースを20回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 餐厅等级
@@ -7195,19 +3403,7 @@ Get your restaurant to Lv. 42
 レストランのレベルが42に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 拜访好友
@@ -7221,23 +3417,7 @@ Visits friends 40 times
 フレンド訪問40回する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 雇佣
@@ -7251,27 +3431,7 @@ Accept to temp work contracts 5 times
 5回バイトの申請を了承する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	好感度
@@ -7285,23 +3445,7 @@ Have 7 employee with a full affection meter
 好感度MAX店員7人達成
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 Combo3
@@ -7315,21 +3459,7 @@ Reach 5 Combo 3s
 コンボ3を5回達成する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 卖出料理
@@ -7343,17 +3473,7 @@ Sell 80000 gold worth of food
 料理で80000ゴールドを儲かる
 
 
-
-
-
-
-
 null
-
-
-
-
-
 
 
 研发
@@ -7367,23 +3487,7 @@ Upgrade Steamed Buns to Lv. 3
 小籠包のランクを星3まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 摸头
@@ -7397,19 +3501,7 @@ Rub head and make employees happy 15 times
 なでなでして店員を15回喜ばせる
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 	送礼物
@@ -7423,23 +3515,7 @@ Send 8 Gift to an Employee
 店員にプレゼントを8回贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传等级
@@ -7453,19 +3529,7 @@ Reach Electronics Street Marketing Lv. 7
 電気街で宣伝レベル7に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 宣传次数
@@ -7479,21 +3543,9 @@ Complete 9 PR trip to the Residential Area
 ニャル町で9回宣伝をする
 
 
-
-
-
-
-
-
-
 	
 
 null
-
-
-
-
-
 
 
 	好感度
@@ -7507,23 +3559,7 @@ Have 10 employee with a full affection meter
 好感度MAX店員10人達成
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 金币训练
@@ -7537,23 +3573,7 @@ Take 10 gold trainings
 訓練を10回行う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 做菜
@@ -7567,31 +3587,7 @@ Make 25 Tiramisu
 ティラミスを25回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
-
-
 
 
 卖出料理
@@ -7605,19 +3601,10 @@ Sell 2400 dishes
 料理を2400人分売る
 
 
-
-
-
 `
 
 
-
-
-
 null
-
-
-
 
 
 	借店员
@@ -7631,25 +3618,7 @@ borrow 15 Employees from a friend
 フレンドに店員を15回借りる
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 申请打工
@@ -7663,25 +3632,7 @@ Apply for 10 temp job
 兼職申請を10回する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 店员等级
@@ -7695,21 +3646,7 @@ Have an employee reach Lv. 100
 店員がレベル100に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 手刀
@@ -7723,17 +3660,7 @@ Karate Chop 5 lazy employees
 サボってる店員に手刀打ちを5回する
 
 
-
-
-
-
-
-
-
 sm_tips_hand_knife.lua
-
-
-
 
 
 解锁菜品
@@ -7747,21 +3674,7 @@ Learn how to cook 32 types of dishes
 メニューを32つまで覚える
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 Party
@@ -7775,17 +3688,7 @@ Hold 5 Parties
 パーティを5回開く
 
 
-
-
-
-
-
-
-
-
-
 null
-
 
 
 宣传等级
@@ -7799,17 +3702,7 @@ Reach Electronics Street Marketing Lv. 8
 電気街で宣伝レベル8に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 宣传奖励
@@ -7823,16 +3716,7 @@ Claim 10 outside advertising prizes
 外出宣伝のボーナスを10回貰う
 
 
-
-
-
-
-
-
 null
-
-
-
 
 
 借出店员
@@ -7846,25 +3730,7 @@ Lend out 12 employees
 店員の借り出しは12人に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 	友情值
@@ -7878,17 +3744,7 @@ Gain 500 Friendship
 友情値を500個獲得する
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 	送礼物
@@ -7902,17 +3758,7 @@ Give 12 Gift to an SP Guest
 SP客にプレゼントを12回贈る
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 Combo4
@@ -7926,19 +3772,7 @@ Reach 2 Combo 4s
 コンボ4を2回達成する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 餐厅等级
@@ -7952,17 +3786,7 @@ Get your restaurant to Lv. 47
 レストランのレベルが47に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 满意度上限
@@ -7976,15 +3800,7 @@ Pleasure limit reaches 2200
 満足度の上限が2200に達する
 
 
-
-
-
-
-
 null
-
-
-
 
 
 雇佣
@@ -7998,25 +3814,7 @@ Accept to temp work contracts 8 times
 8回バイトの申請を了承する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 	借店员
@@ -8030,25 +3828,7 @@ borrow 22 Employees from a friend
 フレンドに店員を22回借りる
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 店员等级
@@ -8062,21 +3842,7 @@ Have an employee reach Lv. 110
 店員がレベル110に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 摸头
@@ -8090,17 +3856,7 @@ Rub head and make employees happy 30 times
 なでなでして店員を30回喜ばせる
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 宣传等级
@@ -8114,17 +3870,7 @@ Reach Electronics Street Marketing Lv. 9
 電気街で宣伝レベル9に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 SP顾客
@@ -8138,17 +3884,7 @@ Unlock all SP Guests
 すべてのSP客をロック解除させる
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 餐厅等级
@@ -8162,17 +3898,7 @@ Get your restaurant to Lv. 50
 レストランのレベルが50に達する
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 解锁菜品
@@ -8186,21 +3912,7 @@ Learn how to cook 40 types of dishes
 メニューを40つまで覚える
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 满意度上限
@@ -8214,15 +3926,7 @@ Pleasure limit reaches 3500
 満足度の上限が3500に達する
 
 
-
-
-
-
-
 null
-
-
-
 
 
 	好感度
@@ -8236,21 +3940,7 @@ Have 15 employees with a full affection meters
 好感度MAXの店員が15人所有する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 做菜
@@ -8264,25 +3954,7 @@ Make 20 Hamburger
 ハンバーガーを20回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 SP顾客好感度
@@ -8296,19 +3968,10 @@ Raise Levi's affection rating to 3
 リヴァイの好感度がハート3に達する
 
 
-
-
-
 I
 
 
-
-
-
 null
-
-
-
 
 
 SP顾客好感度
@@ -8322,19 +3985,10 @@ Raise Shimakaze's affection rating to 4
 島風の好感度がハート4に達する
 
 
-
-
-
 B
 
 
-
-
-
 null
-
-
-
 
 
 卖出料理
@@ -8348,15 +4002,9 @@ Sell 20000 dishes
 料理を20000人分売る
 
 
-
-
-
  
 
 null
-
-
-
 
 
 购买衣服
@@ -8370,21 +4018,7 @@ Buy 1 LL idol outfit for employees
 服飾店で店員にアイドル衣装を買う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 购买衣服
@@ -8398,21 +4032,7 @@ Buy 1 Nico School Uniform for employees
 服飾店で店員ににこの制服を買う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 做菜
@@ -8426,25 +4046,7 @@ Make 100 Orange Juice
 オレンジジュースを100回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 研发
@@ -8458,21 +4060,7 @@ Upgrade Orange Juice to Lv. 3
 オレンジジュースのランクを星3まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 训练
@@ -8486,19 +4074,10 @@ Train stats + 100 points
 訓練でステータスを100ポイントを上げる
 
 
-
-
-
 d
 
 
-
-
-
 null
-
-
-
 
 
 	送礼物
@@ -8512,17 +4091,7 @@ Give 50 Gift to an SP Guest
 SP客にプレゼントを50回贈る
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 购买脸饰
@@ -8536,21 +4105,7 @@ Buy 1 Black eyepatch for employees
 服飾店で店員に黒の眼帯を買う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 购买脸饰
@@ -8564,21 +4119,7 @@ Buy 1 Medical eyepatch for employees
 服飾店で店員に医療用眼帯を買う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 购买脸饰
@@ -8592,21 +4133,7 @@ Buy 1 Tokyo Ghoul Mask for employees
 服飾店で店員に金木研のマスクを買う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 做菜
@@ -8620,25 +4147,7 @@ Make 100 Jap Fried Tofu
 油揚げを100回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 做菜
@@ -8652,25 +4161,7 @@ Make 100 Hot Dog
 ホットドッグを100回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 做菜
@@ -8684,25 +4175,7 @@ Make 100 Dango
 団子を100回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 购买桌子
@@ -8716,21 +4189,7 @@ Buy 1 Light Wooden Table
 薄色原木デスクを購入する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 购买桌子
@@ -8744,21 +4203,7 @@ Buy 1 Orange Checkerboard Table
 茶色格子模様食卓を購入する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 购买桌子
@@ -8772,21 +4217,7 @@ Buy 1 Orange Thumbtack table
 オレンジピンを購入する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 宣传次数
@@ -8800,19 +4231,9 @@ Complete 50 PR trip to the Residential Area
 ニャル町で50回宣伝をする
 
 
-
-
-
-
-
-
-
 2
 
 null
-
-
-
 
 
 购买头饰
@@ -8826,21 +4247,7 @@ Buy 1 Azusa Ornament for employees
 服飾店で店員に梓のカチューシャを買う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 拜访好友
@@ -8854,17 +4261,7 @@ Visits friends 300 times
 フレンド訪問300回する
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 购买头饰
@@ -8878,21 +4275,7 @@ Buy 1 Sonico Headphones for employees
 服飾店で店員にそに子ヘッドホンを買う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 SP顾客好感度
@@ -8906,19 +4289,10 @@ Raise Hestia's affection rating to 4
 ヘスティアの好感度がハート4に達する
 
 
-
-
-
 N
 
 
-
-
-
 null
-
-
-
 
 
 摸头
@@ -8932,17 +4306,7 @@ Rub head and make employees happy 100 times
 なでなでして店員を100回喜ばせる
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 打断收盘
@@ -8956,15 +4320,7 @@ Stop plate collection 200 times
 店員の片付けを200回中断する
 
 
-
-
-
-
-
 sm_tips_monitortype95.lua
-
-
-
 
 
 Combo4
@@ -8978,19 +4334,7 @@ Reach 3 Combo 4s
 コンボ4を3回達成する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 Party
@@ -9004,13 +4348,7 @@ Hold 6 Parties
 パーティを6回開く
 
 
-
-
-
-
-
 null
-
 
 
 手刀
@@ -9024,17 +4362,7 @@ Karate Chop 20 lazy employees
 サボってる店員に手刀打ちを20回する
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 	借店员
@@ -9048,25 +4376,7 @@ borrow 100 Employees from a friend
 フレンドに店員を100回借りる
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 购买衣服
@@ -9080,21 +4390,7 @@ Buy 1 Louise School Uniform for employees
 服飾店で店員にルイズの制服を買う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 Combo3
@@ -9108,19 +4404,7 @@ Reach 20 Combo 3s
 コンボ3を20回達成する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 SP顾客好感度
@@ -9134,19 +4418,10 @@ Raise Misaki's affection rating to 4
 食蜂操祈の好感度がハート4に達する
 
 
-
-
-
 A
 
 
-
-
-
 null
-
-
-
 
 
 卖出料理
@@ -9160,15 +4435,9 @@ Sell 20000 dishes
 料理を20000人分売る
 
 
-
-
-
  
 
 null
-
-
-
 
 
 购买衣服
@@ -9182,17 +4451,7 @@ Buy 1 Red-rimmed for employees
 服飾店で店員に赤縁メガネを買う
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 	送礼物
@@ -9206,15 +4465,9 @@ Send 60 gifts to employees or guests
 店員か客人に60回プレゼントを贈る
 
 
-
-
-
 <
 
 null
-
-
-
 
 
 卖出料理
@@ -9228,13 +4481,9 @@ Sell 200000 gold worth of food
 料理で200000ゴールドを儲かる
 
 
-
 @
 
 null
-
-
-
 
 
 合体
@@ -9248,21 +4497,7 @@ Make 100 Combination
 合体を100回行う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 做菜
@@ -9276,25 +4511,7 @@ Make 50 Taiyaki
 鯛焼を50回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 	友情值
@@ -9308,19 +4525,7 @@ Gain 1000 Friendship
 友情値を1000個獲得する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 SP顾客好感度
@@ -9334,19 +4539,10 @@ Raise Nyaruko's affection rating to 3
 ニャル子の好感度がハート3に達する
 
 
-
-
-
 E
 
 
-
-
-
 null
-
-
-
 
 
 卖出料理
@@ -9360,13 +4556,7 @@ Sell 300000 gold worth of food
 料理で300000ゴールドを儲かる
 
 
-
-
-
 null
-
-
-
 
 
 	送礼物
@@ -9380,21 +4570,7 @@ Send 50 Gift to an Employee
 店員にプレゼントを50回贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 上传头像
@@ -9408,17 +4584,7 @@ Upload 1 Profile Pic
 アイコン画像をアップロードする
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 使用邀请码
@@ -9432,15 +4598,7 @@ Use a friend's invite code
 フレンドのお誘いコードを使う
 
 
-
-
-
-
-
 null
-
-
-
 
 
 留言
@@ -9454,17 +4612,7 @@ Leave 1 scrolling comment in a friend's house
 フレンドの店にコメント（弾幕）をする
 
 
-
-
-
-
-
-
-
 sm_tips_monitortype109.lua
-
-
-
 
 
 拍照
@@ -9478,17 +4626,7 @@ Take and share 1 photo
 写真を見せる
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 语音聊天
@@ -9502,15 +4640,7 @@ Send 1 audio message
 共同チャンネルでボイスチャットを発言する
 
 
-
-
-
-
-
 null
-
-
-
 
 
 邀请好友
@@ -9524,15 +4654,7 @@ Invite 1 friend
 フレンドを誘う
 
 
-
-
-
-
-
 null
-
-
-
 
 
 抓拍
@@ -9546,17 +4668,7 @@ Photograph 1 employee
 店員の写真を撮る
 
 
-
-
-
-
-
-
-
 sm_tips_monitortype148.lua
-
-
-
 
 
 Q群
@@ -9570,15 +4682,7 @@ Q群
 萌えギャルレストランのQQ群に入る
 
 
-
-
-
-
-
 null
-
-
-
 
 
 关注贴吧
@@ -9592,15 +4696,7 @@ null
 萌娘餐厅吧で詳細を見る
 
 
-
-
-
-
-
 null
-
-
-
 
 
 设置一个招待
@@ -9614,17 +4710,7 @@ Set 1 employee to hostess mode
 店員一名を呼び込みにする
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 购买桌子
@@ -9638,21 +4724,7 @@ Buy 1 Wooden Table
 原木材テーブルを購入する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 购买椅子
@@ -9666,21 +4738,7 @@ Buy 1 Wooden Chair
 原木材椅子を購入する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 摸头开心1次
@@ -9694,13 +4752,7 @@ Rub head and make employees happy 1 times
 なでなでして店員を1回喜ばせる
 
 
-
-
-
 sm_tips_touch_head.lua
-
-
-
 
 
 购买1个橱柜
@@ -9714,17 +4766,7 @@ Buy 1 Cupboard
 戸棚を購入する
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 做菜
@@ -9738,25 +4780,7 @@ Make 3 meals
 任意の料理を3回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 sm_tips_monitortype15.lua
-
-
-
 
 
 设置休息室职位
@@ -9770,17 +4794,7 @@ Set 1 employee to rest mode
 店員一名を休憩室に向かわせる
 
 
-
-
-
-
-
-
-
 sm_tips_monitortype25.lua
-
-
-
 
 
 购买墙饰
@@ -9794,21 +4808,7 @@ Buy 1 hyaline Cabinet
 食器戸棚を購入する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 	友情值
@@ -9822,19 +4822,7 @@ Gain 3 Friendship
 友情値を3個獲得する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 做菜
@@ -9848,25 +4836,7 @@ Make 4 meals
 任意の料理を4回作る
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 	卖出菜
@@ -9880,19 +4850,7 @@ Sell 12 dishes
 料理を12人分売る
 
 
-
-
-
-
-
-
-
-
-
 sm_tips_sell_dish.lua
-
-
-
 
 
 店员送礼
@@ -9906,18 +4864,7 @@ Send 1 Gift to an Employee
 店員にプレゼントを1回贈る
 
 
-
-
-
-
-
-
-
 sm_tips_staff_gift.lua
-
-
-
-
 
 
 合体1次
@@ -9931,21 +4878,7 @@ Make 1 Combination
 合体を1回行う
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 购买装饰
@@ -9959,21 +4892,7 @@ Buy 1 Coffee Machine
 黒コーヒーを購入する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 宣传次数
@@ -9987,13 +4906,7 @@ Complete 1 PR trip to the Residential Area
 ニャル町で1回宣伝をする
 
 
-
-
-
 null
-
-
-
 
 
 购买墙饰
@@ -10007,19 +4920,7 @@ Buy 1 wall decoration
 壁飾りを購入する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 购买二楼室外装饰
@@ -10033,19 +4934,7 @@ Buy 1 second floor outdoor decoration
 任意の二階用室外装飾を購入する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 卖出菜的数量
@@ -10059,19 +4948,7 @@ Sell 5 dishes
 料理を5人分売る
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 给店员购买服装
@@ -10085,17 +4962,7 @@ Buy 1 outfit for employees
 服飾店で店員に任意の衣装を買う
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 金币召唤
@@ -10109,17 +4976,7 @@ Make 1 Coins Summon
 金貨召喚を利用する
 
 
-
-
-
-
-
-
-
 sm_tips_monitortype4-9.lua
-
-
-
 
 
 宣传次数
@@ -10133,15 +4990,7 @@ Complete 3 PR trip to the Residential Area
 ニャル町で3回宣伝をする
 
 
-
-
-
-
-
 null
-
-
-
 
 
 购买桌子
@@ -10155,17 +5004,7 @@ Buy 1 table
 テーブルを購入する
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 对游戏的建议
@@ -10179,15 +5018,7 @@ Please Comment~
 ご意見を待ています～
 
 
-
-
-
-
-
 null
-
-
-
 
 
 Facebook点赞
@@ -10201,15 +5032,7 @@ Like our game~
 萌えギャルレストランに“いいね”をしましょう～
 
 
-
-
-
-
-
 null
-
-
-
 
 
 分享游戏
@@ -10223,17 +5046,7 @@ Share on Facebook~
 萌えギャルレストランをフェイスブックの友達にオススメしてくださいね～
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 lv15
@@ -10247,21 +5060,7 @@ fill 2 delivery items
 オーダー配達2回
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 25
@@ -10275,21 +5074,7 @@ fill 15 delivery items
 オーダー配達15回
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 28
@@ -10303,21 +5088,7 @@ fill 30 delivery items
 オーダー配達30回
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 20
@@ -10331,15 +5102,7 @@ Help a friend fill 1 delivery items
 フレンドのオーダー配達援助1回
 
 
-
-
-
-
-
 null
-
-
-
 
 
 24
@@ -10353,17 +5116,7 @@ Help a friend fill 2 delivery items
 フレンドのオーダー配達援助2回
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 30
@@ -10377,17 +5130,7 @@ Help a friend fill 3 delivery items
 フレンドのオーダー配達援助3回
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 33
@@ -10401,17 +5144,7 @@ Help a friend fill 4 delivery items
 フレンドのオーダー配達援助4回
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 38
@@ -10425,17 +5158,7 @@ Help a friend fill 5 delivery items
 フレンドのオーダー配達援助5回
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 43
@@ -10449,17 +5172,7 @@ Help a friend fill 8 delivery items
 フレンドのオーダー配達援助8回
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 19
@@ -10473,21 +5186,7 @@ Complete 2 orders
 オーダー完成2回
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 25
@@ -10501,21 +5200,7 @@ Complete 4 orders
 オーダー完成4回
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 32
@@ -10529,21 +5214,7 @@ Complete 6 orders
 オーダー完成6回
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 40
@@ -10557,22 +5228,7 @@ Complete 10 orders
 オーダー完成10回
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 20
@@ -10586,19 +5242,7 @@ Make 1 purchases in the marker
 市場で買い物1回
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 30
@@ -10612,21 +5256,7 @@ Make 3 purchases in the marker
 市場で買い物3回
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 37
@@ -10640,21 +5270,7 @@ Make 5 purchases in the marker
 市場で買い物5回
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 41
@@ -10668,22 +5284,7 @@ Make 10 purchases in the marker
 市場で買い物10回
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 22
@@ -10697,23 +5298,7 @@ Sell 2 items in the market
 市場で売り物2回
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 33
@@ -10727,23 +5312,7 @@ Sell 5 items in the market
 市場で売り物5回
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 47
@@ -10757,24 +5326,7 @@ Sell 10 items in the market
 市場で売り物10回
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 34
@@ -10788,23 +5340,7 @@ Sell 5 dishes in the market
 市場で料理売り5回
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 42
@@ -10818,23 +5354,7 @@ Sell 5 types of ingredients in the market
 市場で食材売り5回
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 12
@@ -10848,21 +5368,7 @@ PvP with friends 1 times
 フレンドとPK1回
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 29
@@ -10876,23 +5382,7 @@ PvP with friends 5 times
 フレンドとPK5回
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 37
@@ -10906,23 +5396,7 @@ PvP with friends 8 times
 フレンドとPK8回
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 45
@@ -10936,23 +5410,7 @@ PvP with friends 15 times
 フレンドとPK15回
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 15
@@ -10966,23 +5424,7 @@ Win 2 PvP rounds
 PKで勝利2回
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 26
@@ -10996,23 +5438,7 @@ Win 3 PvP rounds
 PKで勝利3回
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 46
@@ -11026,23 +5452,7 @@ Win 8 PvP rounds
 PKで勝利8回
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 39
@@ -11056,23 +5466,7 @@ Lose 3 PvP rounds
 PKで負け3回
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 友情值
@@ -11086,19 +5480,7 @@ Gain 1200 Friendship
 友情値を1200個獲得する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 借出店员
@@ -11112,25 +5494,7 @@ Lend out 15 employees
 店員の借り出しは15人に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 Party
@@ -11142,15 +5506,6 @@ Party
 Hold 8 Parties
 
 パーティを8回開く
-
-
-
-
-
-
-
-
-
 
 
 null
@@ -11166,19 +5521,10 @@ Train stats + 50 points
 訓練でステータスを50ポイントを上げる
 
 
-
-
-
 2
 
 
-
-
-
 null
-
-
-
 
 
 金色品质
@@ -11192,21 +5538,7 @@ Get 10 employees with max character (5-star)
 資質最高到達店員が10人（星5）
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 卖出料理
@@ -11220,17 +5552,10 @@ Sell 220000 gold worth of food
 料理で220000ゴールドを儲かる
 
 
-
 [`
 
 
-
-
-
 null
-
-
-
 
 
 研发
@@ -11244,21 +5569,7 @@ Upgrade Jap Fried Tofu to Lv. 4
 油揚げのランクを星4まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 满意度上限
@@ -11272,15 +5583,9 @@ Pleasure limit reaches 3700
 満足度の上限が3700に達する
 
 
-
-
-
 t
 
 null
-
-
-
 
 
 送礼物
@@ -11294,21 +5599,7 @@ Send 20 Gift to an Employee
 店員にプレゼントを20回贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 借店员
@@ -11322,25 +5613,7 @@ borrow 30 Employees from friends
 フレンドに店員を30回借りる
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 雇佣
@@ -11354,25 +5627,7 @@ Accept to temp work contracts 10 times
 10回バイトの申請を了承する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 解锁菜品
@@ -11386,21 +5641,7 @@ Learn how to cook 42 types of dishes
 メニューを42つまで覚える
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 好感度
@@ -11414,21 +5655,7 @@ Have 20 employees with a full affection meters
 好感度MAXの店員が20人所有する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 训练
@@ -11442,19 +5669,10 @@ Train stats + 100 points
 訓練でステータスを100ポイントを上げる
 
 
-
-
-
 d
 
 
-
-
-
 null
-
-
-
 
 
 解锁菜品
@@ -11468,21 +5686,7 @@ Learn how to cook 44 types of dishes
 メニューを44つまで覚える
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 研发
@@ -11496,21 +5700,7 @@ Upgrade Vegetable Juice to Lv. 5
 野菜ジュースのランクを星5まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 卖出料理
@@ -11524,15 +5714,7 @@ Sell 25000 dishes
 料理を25000人分売る
 
 
-
-
-
-
-
 null
-
-
-
 
 
 申请打工
@@ -11546,25 +5728,7 @@ Apply for 30 temp job
 兼職申請30回をする
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 雇佣
@@ -11578,25 +5742,7 @@ Accept to temp work contracts 12 times
 12回バイトの申請を了承する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 拜访好友
@@ -11610,19 +5756,7 @@ Visits friends 150 times
 フレンド訪問150回する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 满意度上限
@@ -11636,15 +5770,9 @@ Pleasure limit reaches 3900
 満足度の上限が3900に達する
 
 
-
-
-
 <
 
 null
-
-
-
 
 
 店员形象
@@ -11658,17 +5786,7 @@ Get 60 types of employees
 店員60人所有
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 金色品质
@@ -11682,21 +5800,7 @@ Get 15 employees with max character (5-star)
 資質最高到達店員が15人（星5）
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 解锁菜品
@@ -11710,21 +5814,7 @@ Learn how to cook 45 types of dishes
 メニューを45つまで覚える
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 卖出料理
@@ -11738,15 +5828,9 @@ Sell 30000 dishes
 料理を30000人分売る
 
 
-
-
-
 0
 
 null
-
-
-
 
 
 研发
@@ -11760,21 +5844,7 @@ Upgrade Lasagna to Lv. 4
 ラザニアのランクを星4まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 借出店员
@@ -11788,25 +5858,7 @@ Lend out 18 employees
 店員の借り出しは18人に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 雇佣
@@ -11820,25 +5872,7 @@ Accept to temp work contracts 14 times
 14回バイトの申請を了承する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 借出店员
@@ -11852,25 +5886,7 @@ Lend out 22 employees
 店員の借り出しは22人に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 卖出料理
@@ -11884,17 +5900,7 @@ Sell 400000 gold worth of food
 料理で400000ゴールドを儲かる
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 训练
@@ -11908,19 +5914,10 @@ Train stats + 120 points
 訓練でステータスを120ポイントを上げる
 
 
-
-
-
 x
 
 
-
-
-
 null
-
-
-
 
 
 金色品质
@@ -11934,21 +5931,7 @@ Get 20 employees with max character (5-star)
 資質最高到達店員が20人（星5）
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 Party
@@ -11960,15 +5943,6 @@ Party
 Hold 12 Parties
 
 パーティを12回開く
-
-
-
-
-
-
-
-
-
 
 
 null
@@ -11984,21 +5958,7 @@ Upgrade Tiramisu to Lv. 5
 ティラミスのランクを星5まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 解锁菜品
@@ -12012,21 +5972,7 @@ Learn how to cook 46 types of dishes
 メニューを46つまで覚える
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 友情值
@@ -12040,19 +5986,7 @@ Gain 1500 Friendship
 友情値を1500個獲得する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 送礼物
@@ -12066,21 +6000,7 @@ Send 30 Gift to an Employee
 店員にプレゼントを30回贈る
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 申请打工
@@ -12094,25 +6014,7 @@ Apply for 35 temp job
 兼職申請35回をする
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 满意度上限
@@ -12126,15 +6028,7 @@ Pleasure limit reaches 4000
 満足度の上限が4000に達する
 
 
-
-
-
-
-
 null
-
-
-
 
 
 好感度
@@ -12148,21 +6042,7 @@ Have 25 employees with a full affection meters
 好感度MAXの店員が25人所有する
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 训练
@@ -12176,19 +6056,7 @@ Train stats + 150 points
 訓練でステータスを150ポイントを上げる
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 解锁菜品
@@ -12202,21 +6070,7 @@ Learn how to cook 47 types of dishes
 メニューを47つまで覚える
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 研发
@@ -12230,21 +6084,7 @@ Upgrade Kung-Pao Chicken to Lv. 5
 宮保鶏丁のランクを星5まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 卖出料理
@@ -12258,15 +6098,7 @@ Sell 50000 dishes
 料理を50000人分売る
 
 
-
-
-
-
-
 null
-
-
-
 
 
 借店员
@@ -12280,25 +6112,7 @@ borrow 45 Employees from a friend
 フレンドに店員を45回借りる
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 雇佣
@@ -12312,25 +6126,7 @@ Accept to temp work contracts 16 times
 16回バイトの申請を了承する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 借出店员
@@ -12344,25 +6140,7 @@ Lend out 28 employees
 店員の借り出しは28人に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 满意度上限
@@ -12376,15 +6154,7 @@ Pleasure limit reaches 4100
 満足度の上限が4100に達する
 
 
-
-
-
-
-
 null
-
-
-
 
 
 店员形象
@@ -12398,17 +6168,7 @@ Get 70 types of employees
 店員70人所有
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 金色品质
@@ -12422,21 +6182,7 @@ Get 25 employees with max character (5-star)
 資質最高到達店員が25人（星5）
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 研发
@@ -12450,21 +6196,7 @@ Upgrade Carmel Macchiato to Lv. 5
 マキアートのランクを星5まで上がる
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 解锁菜品
@@ -12478,21 +6210,7 @@ Learn how to cook 48 types of dishes
 メニューを48つまで覚える
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 卖出料理
@@ -12506,11 +6224,7 @@ Sell 80000 dishes
 料理を80000人分売る
 
 
-
 null
-
-
-
 
 
 拜访好友
@@ -12524,19 +6238,7 @@ Visits friends 200 times
 フレンド訪問200回する
 
 
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 雇佣
@@ -12550,25 +6252,7 @@ Accept to temp work contracts 18 times
 18回バイトの申請を了承する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 借出店员
@@ -12582,25 +6266,7 @@ Lend out 35 employees
 店員の借り出しは35人に達する
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 满意度上限
@@ -12614,15 +6280,9 @@ Pleasure limit reaches 4200
 満足度の上限が4200に達する
 
 
-
-
-
 h
 
 null
-
-
-
 
 
 店员形象
@@ -12636,17 +6296,7 @@ Get 80 types of employees
 店員80人所有
 
 
-
-
-
-
-
-
-
 null
-
-
-
 
 
 金色品质
@@ -12660,21 +6310,7 @@ Get 35 employees with max character (5-star)
 資質最高到達店員が35人（星5）
 
 
-
-
-
-
-
-
-
-
-
-
-
 null
-
-
-
 
 
 满意度上限
@@ -12688,12 +6324,6 @@ Pleasure limit reaches 4300
 満足度の上限が4300に達する
 
 
-
-
-
-
-
 null
-
 
 

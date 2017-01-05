@@ -1,17 +1,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 无技能
 
 無技能
@@ -27,37 +16,6 @@ no
 没有技能
 
 没有技能
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 疾跑
@@ -77,31 +35,6 @@ Servers have a chance to trigger "speed up", hastening their travel to the targe
 ウェーターが確率で“加速”を発動する、発動するとすばやく目的地へ移動
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 日料精通
 
 日料精通
@@ -117,33 +50,7 @@ JP Food Master
 Chefs have a chance to trigger "flawless dish", which will cause customers to leave good reviews.コックが確率で対応の“ピカピカ料理”を作る、客人がピカピカ料理を食べると必ず好評を出してくれる
 
 
-
-
-
-
-
 >
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 魅惑
@@ -163,33 +70,7 @@ Receptionists have a chance to trigger "seduction", creating a 100% chance for c
 呼び込みが確率で“魅惑”を発動する、発動すると通行人が100%確率で店に来る
 
 
-
-
-
-
-
 >L
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 饮料精通
@@ -207,33 +88,7 @@ Drink Master
 Chefs have a chance to trigger "flawless dish", which will cause customers to leave good reviews.コックが確率で対応の“ピカピカ料理”を作る、客人がピカピカ料理を食べると必ず好評を出してくれる
 
 
-
-
-
-
-
 >
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 西餐精通
@@ -251,33 +106,7 @@ Western Food Master
 Chefs have a chance to trigger "flawless dish", which will cause customers to leave good reviews.コックが確率で対応の“ピカピカ料理”を作る、客人がピカピカ料理を食べると必ず好評を出してくれる
 
 
-
-
-
-
-
 >
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 中餐精通
@@ -295,33 +124,7 @@ CN Food Master
 Chefs have a chance to trigger "flawless dish", which will cause customers to leave good reviews.コックが確率で対応の“ピカピカ料理”を作る、客人がピカピカ料理を食べると必ず好評を出してくれる
 
 
-
-
-
-
-
 >
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 甜点精通
@@ -339,33 +142,7 @@ Sweets Master
 Chefs have a chance to trigger "flawless dish", which will cause customers to leave good reviews.コックが確率で対応の“ピカピカ料理”を作る、客人がピカピカ料理を食べると必ず好評を出してくれる
 
 
-
-
-
-
-
 >
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 全品系精通
@@ -383,29 +160,7 @@ Ultimate Master
 Chefs have a chance to trigger "flawless dish", which will cause customers to leave good reviews.コックが確率で全ての“ピカピカ料理”を作る、客人がピカピカ料理を食べると必ず好評を出してくれる
 
 
-
-
-
-
-
 >
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 	
@@ -427,31 +182,6 @@ Servers have a chance to get more popularity.
 ウェーターが確率で発動すると、人気度アップする
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 用餐三倍速
 
 用餐三倍速
@@ -469,27 +199,7 @@ Servers have a chance to speed up eating of all customers.
 ウェーターが確率で発動すると、全ての食事を加速する
 
 
-
-
-
 <
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 魅惑力场
@@ -509,33 +219,7 @@ Receptionists have a chance to let all pedestrians enter the café.
 呼び込みが確率で発動すると、全ての通行人が店に来る
 
 
-
-
-
-
-
 =
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 自来熟
@@ -555,31 +239,10 @@ Receptionists have a chance to get friendship points.
 呼び込みが確率で発動すると、友情値を獲得する
 
 
-
-
-
-
-
 >L
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 q
-
-
-
 
 
 蜜汁吸引力
@@ -599,33 +262,10 @@ Receptionists have a chance to summon a sp customer.
 呼び込みが確率で発動すると、スペシャル客人を召喚する
 
 
-
-
-
-
-
 >L
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 q
-
-
-
 
 
 天生撩妹狂
@@ -645,31 +285,6 @@ Servers have a chance to gain affection of sp customer
 ウェーターが確率で発動すると、スペシャル客人の好感度をアップする
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 餐盘吞噬者
 
 餐盤吞噬者
@@ -687,27 +302,10 @@ Servers have a chance to clean up all empty plates
 ウェーターが確率で発動すると、全てのトレイを整理する
 
 
-
-
-
 <
 
 
-
-
-
-
-
-
-
-
-
-
-
 q
-
-
-
 
 
 时间跳跃
@@ -727,31 +325,9 @@ Chefs have a chance to finish cooking immediately.
 コックが確率で発動すると、料理をすぐに完成する
 
 
-
-
-
-
-
 =
 
 X
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 量贩炼金术
@@ -771,33 +347,10 @@ Chefs have a chance to gain amounts of plates
 コックが確率で発動すると、料理数を増える
 
 
-
-
-
-
-
 =
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 q
-
-
-
 
 
 极致服务
@@ -815,17 +368,5 @@ Ultimate Service
 Servers have a chance to get a tip
 
 ウェーターが確率で発動すると、チップを獲得する
-
-
-
-
-
-
-
-
-
-
-
-
 
 

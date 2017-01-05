@@ -25,6 +25,7 @@ def main():
 					s = re.sub(r'\x00\x01.', r'', s, flags=re.DOTALL) # Replace 1-symbol strings
 					s = re.sub(r'\0[\x00-\xFF]', r'\n\n', s) # Split strings
 					s = re.sub(r'[\x00-\x08\x0B-\x1F\x7F]', r'', s) # Replace specials, except [\t\n]
+					s = re.sub(r'\n{3,}', r'\n\n\n', s) # Wipe long \n sequences
 					with open(file_out, mode='w', encoding='utf-8') as f_out:
 						f_out.write(s)
 			except Exception as e:
