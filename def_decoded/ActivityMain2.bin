@@ -15110,10 +15110,10 @@ Charge Prize
 
 
 ype=txt,txtContent=#c98f3d【活动时间】{time}
-【活动介绍】本次充值活动的最终奖励是《进击的巨人》中超人气角色——兵长·利威尔！人类最强的战士、平日冷酷的兵长换上一身清洁装扮，是不是显得人妻属性爆棚呢？累计消费即可获得5星稀有形象哦~
+【活动介绍】本次充值活动的最终奖励是《进击的巨人》中超人气角色——兵长·利威尔！人类最强的战士、平日冷酷的兵长换上一身清洁装扮，是不是显得人妻属性爆棚呢？累计充值即可获得5星稀有形象哦~
 【已充值】#ff0000{value}>
 <type=progressbar_with_scale,min=0,max=6600,split=0,split=180,split=600,split=900,split=1500,split=3300,split=4500,split=6600><type=txt,txtContent=#c98f3d【活動時間】{time}
-【活動介紹】本次儲值活動的最終獎勵是《進擊的巨人》中超人氣角色——兵長·利威爾！人類最強的戰士、平日冷酷的兵長換上一身清潔裝扮，是不是顯得人妻屬性爆棚呢？累計消費即可獲得5星稀有形象哦~
+【活動介紹】本次儲值活動的最終獎勵是《進擊的巨人》中超人氣角色——兵長·利威爾！人類最強的戰士、平日冷酷的兵長換上一身清潔裝扮，是不是顯得人妻屬性爆棚呢？累計儲值即可獲得5星稀有形象哦~
 【已儲值】#ff0000{value}>
 <type=progressbar_with_scale,min=0,max=6600,split=0,split=180,split=600,split=900,split=1500,split=3300,split=4500,split=6600><type=txt,txtContent=#c98f3d【Event period】{time}
 【Event description】During the event period，combine charges to get 5 star rare skins——#ff0000Levi#c98f3d!Also the most valuable furniture and outfits don't require affection to use~
@@ -15127,9 +15127,9 @@ ype=txt,txtContent=#c98f3d【活动时间】{time}
 
 
 
-201612310000
+201701070000
 
-201701062359
+201701132359
 
 587,588,589,590,591,592,593,
 
@@ -15149,17 +15149,17 @@ Shopping season
 
 
 
-type=txt,txtContent=#c98f3d【活动时间】12月3日-12月7日
+type=txt,txtContent=#c98f3d【活动时间】12月17日-12月21日
 【活动介绍】圣诞节就快要到了，快来采购些日常必需品吧~活动期间每日充值一定钻石即可领取丰厚奖励，每天都有不一样的惊喜哦！
-【今日充值】#ff0000{value}><type=txt,txtContent=#c98f3d【活動時間】12月3日-12月7日
+【今日充值】#ff0000{value}><type=txt,txtContent=#c98f3d【活動時間】12月17日-12月21日
 【活動介紹】耶誕節就快要到了，快來採購些日常必需品吧~活動期間每日充值一定鑽石即可領取豐厚獎勵，每天都有不一樣的驚喜哦！
 【今日儲值】#ff0000{value}>
 
-type=txt,txtContent=#c98f3d【Event period】12/3~12/7
+type=txt,txtContent=#c98f3d【Event period】12/17~12/21
 【Event description】During the event period，combine charges daily to get a lot of prizes
 【Diamond Charged Today】#ff0000{value}>
 
-type=txt,txtContent=#c98f3d【イベント期間】12月3日-12月7日
+type=txt,txtContent=#c98f3d【イベント期間】12月17日-12月21日
 【イベント紹介】イベント期間中、每日累計チャージが一定に達すると豊富なプレゼントが貰えますよ
 【今日チャージ数】#ff0000{value}>
 
@@ -15189,17 +15189,17 @@ Shopping season
 
 
 
-type=txt,txtContent=#c98f3d【活动时间】12月3日-12月7日
+type=txt,txtContent=#c98f3d【活动时间】12月17日-12月21日
 【活动介绍】圣诞节就快要到了，快来采购些日常必需品吧~活动期间每日充值一定钻石即可领取丰厚奖励，每天都有不一样的惊喜哦！
-【今日充值】#ff0000{value}><type=txt,txtContent=#c98f3d【活動時間】12月3日-12月7日
+【今日充值】#ff0000{value}><type=txt,txtContent=#c98f3d【活動時間】12月17日-12月21日
 【活動介紹】耶誕節就快要到了，快來採購些日常必需品吧~活動期間每日充值一定鑽石即可領取豐厚獎勵，每天都有不一樣的驚喜哦！
 【今日儲值】#ff0000{value}>
 
-type=txt,txtContent=#c98f3d【Event period】12/3~12/7
+type=txt,txtContent=#c98f3d【Event period】12/17~12/21
 【Event description】During the event period，combine charges daily to get a lot of prizes
 【Diamond Charged Today】#ff0000{value}>
 
-type=txt,txtContent=#c98f3d【イベント期間】12月3日-12月7日
+type=txt,txtContent=#c98f3d【イベント期間】12月17日-12月21日
 【イベント紹介】イベント期間中、每日累計チャージが一定に達すると豊富なプレゼントが貰えますよ
 【今日チャージ数】#ff0000{value}>
 
@@ -15231,17 +15231,17 @@ Shopping season
 
 
 
-type=txt,txtContent=#c98f3d【活动时间】12月3日-12月7日
+type=txt,txtContent=#c98f3d【活动时间】12月17日-12月21日
 【活动介绍】圣诞节就快要到了，快来采购些日常必需品吧~活动期间每日充值一定钻石即可领取丰厚奖励，每天都有不一样的惊喜哦！
-【今日充值】#ff0000{value}><type=txt,txtContent=#c98f3d【活動時間】12月3日-12月7日
+【今日充值】#ff0000{value}><type=txt,txtContent=#c98f3d【活動時間】12月17日-12月21日
 【活動介紹】耶誕節就快要到了，快來採購些日常必需品吧~活動期間每日充值一定鑽石即可領取豐厚獎勵，每天都有不一樣的驚喜哦！
 【今日儲值】#ff0000{value}>
 
-type=txt,txtContent=#c98f3d【Event period】12/3~12/7
+type=txt,txtContent=#c98f3d【Event period】12/17~12/21
 【Event description】During the event period，combine charges daily to get a lot of prizes
 【Diamond Charged Today】#ff0000{value}>
 
-type=txt,txtContent=#c98f3d【イベント期間】12月3日-12月7日
+type=txt,txtContent=#c98f3d【イベント期間】12月17日-12月21日
 【イベント紹介】イベント期間中、每日累計チャージが一定に達すると豊富なプレゼントが貰えますよ
 【今日チャージ数】#ff0000{value}>
 
@@ -15273,17 +15273,17 @@ Shopping season
 
 
 
-type=txt,txtContent=#c98f3d【活动时间】12月3日-12月7日
+type=txt,txtContent=#c98f3d【活动时间】12月17日-12月21日
 【活动介绍】圣诞节就快要到了，快来采购些日常必需品吧~活动期间每日充值一定钻石即可领取丰厚奖励，每天都有不一样的惊喜哦！
-【今日充值】#ff0000{value}><type=txt,txtContent=#c98f3d【活動時間】12月3日-12月7日
+【今日充值】#ff0000{value}><type=txt,txtContent=#c98f3d【活動時間】12月17日-12月21日
 【活動介紹】耶誕節就快要到了，快來採購些日常必需品吧~活動期間每日充值一定鑽石即可領取豐厚獎勵，每天都有不一樣的驚喜哦！
 【今日儲值】#ff0000{value}>
 
-type=txt,txtContent=#c98f3d【Event period】12/3~12/7
+type=txt,txtContent=#c98f3d【Event period】12/17~12/21
 【Event description】During the event period，combine charges daily to get a lot of prizes
 【Diamond Charged Today】#ff0000{value}>
 
-type=txt,txtContent=#c98f3d【イベント期間】12月3日-12月7日
+type=txt,txtContent=#c98f3d【イベント期間】12月17日-12月21日
 【イベント紹介】イベント期間中、每日累計チャージが一定に達すると豊富なプレゼントが貰えますよ
 【今日チャージ数】#ff0000{value}>
 
@@ -15315,17 +15315,17 @@ Shopping season
 
 
 
-type=txt,txtContent=#c98f3d【活动时间】12月3日-12月7日
+type=txt,txtContent=#c98f3d【活动时间】12月17日-12月21日
 【活动介绍】圣诞节就快要到了，快来采购些日常必需品吧~活动期间每日充值一定钻石即可领取丰厚奖励，每天都有不一样的惊喜哦！
-【今日充值】#ff0000{value}><type=txt,txtContent=#c98f3d【活動時間】12月3日-12月7日
+【今日充值】#ff0000{value}><type=txt,txtContent=#c98f3d【活動時間】12月17日-12月21日
 【活動介紹】耶誕節就快要到了，快來採購些日常必需品吧~活動期間每日充值一定鑽石即可領取豐厚獎勵，每天都有不一樣的驚喜哦！
 【今日儲值】#ff0000{value}>
 
-type=txt,txtContent=#c98f3d【Event period】12/3~12/7
+type=txt,txtContent=#c98f3d【Event period】12/17~12/21
 【Event description】During the event period，combine charges daily to get a lot of prizes
 【Diamond Charged Today】#ff0000{value}>
 
-type=txt,txtContent=#c98f3d【イベント期間】12月3日-12月7日
+type=txt,txtContent=#c98f3d【イベント期間】12月17日-12月21日
 【イベント紹介】イベント期間中、每日累計チャージが一定に達すると豊富なプレゼントが貰えますよ
 【今日チャージ数】#ff0000{value}>
 
@@ -15479,3 +15479,437 @@ type=txt,txtContent=#c98f3d【イベント期間】{time}
 
 
 
+
+
+
+
+累计消费奖励
+
+累計消費獎勵
+
+Spending Prize
+
+累計消費
+
+
+
+ype=txt,txtContent=#c98f3d【活动时间】{time}
+【活动介绍】这次为店长大人带来的是铁血的热血的冷血的吸血鬼——姬丝秀忒·刃下心，活动期间累计消费即可获得小忍的稀有形象，光是称号的长度就足够震惊了吧~
+【已消费】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=6600,split=0,split=180,split=600,split=900,split=1500,split=3300,split=4500,split=6600><type=txt,txtContent=#c98f3d【活動時間】{time}
+【活動介紹】這次為店長大人帶來的是鐵血的熱血的冷血的吸血鬼——姬絲秀忒·刃下心，活動期間累計消費即可獲得小忍的稀有形象，光是稱號的長度就足夠震驚了吧~
+【已消費】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=6600,split=0,split=180,split=600,split=900,split=1500,split=3300,split=4500,split=6600><type=txt,txtContent=#c98f3d【Event period】{time}
+【Event description】During the event period，combine spending to get 5 star rare skins——#ff0000Heartunder Blade#c98f3d!Also the most valuable furniture and outfits don't require affection to use~
+【Diamond Spent】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=6600,split=0,split=180,split=600,split=900,split=1500,split=3300,split=4500,split=6600><type=txt,txtContent=#c98f3d【イベント期間】{time}
+【イベント紹介】イベント期間中累計消費が一定に達するとレアイメージの#ff0000キスショット#c98f3dがてに入れる！他にもお得の家具や服飾もあります、好感度関係なく着用できるよ～
+【消費数】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=6600,split=0,split=180,split=600,split=900,split=1500,split=3300,split=4500,split=6600>
+
+
+
+
+
+201612310000
+
+201701062359
+
+612,613,614,615,616,617,618,
+
+
+
+
+
+
+
+累计消费奖励
+
+累計消費獎勵
+
+Spending Prize
+
+累計消費
+
+
+
+ype=txt,txtContent=#c98f3d【活动时间】{time}
+【活动介绍】虽然看上去态度高傲难以亲近，但关键时刻还是会害羞地黏在身边；活动期间累计消费即可获得稀有形象——芹泽文乃！嘴上说着不要身体却很诚实，傲娇什么的真是太棒了~
+【已消费】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=6600,split=0,split=180,split=600,split=900,split=1500,split=3300,split=4500,split=6600><type=txt,txtContent=#c98f3d【活動時間】{time}
+【活動介紹】雖然看上去態度高傲難以親近，但關鍵時刻還是會害羞地黏在身邊；活動期間累計消費即可獲得稀有形象——芹澤文乃！嘴上說著不要身體卻很誠實，傲嬌什麼的真是太棒了~
+【已消費】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=6600,split=0,split=180,split=600,split=900,split=1500,split=3300,split=4500,split=6600><type=txt,txtContent=#c98f3d【Event period】{time}
+【Event description】During the event period，combine spending to get 5 star rare skins——#ff0000Serizawa Fumino#c98f3d!Also the most valuable furniture and outfits don't require affection to use~
+【Diamond Spent】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=6600,split=0,split=180,split=600,split=900,split=1500,split=3300,split=4500,split=6600><type=txt,txtContent=#c98f3d【イベント期間】{time}
+【イベント紹介】イベント期間中累計消費が一定に達するとレアイメージの#ff0000芹沢文乃#c98f3dがてに入れる！他にもお得の家具や服飾もあります、好感度関係なく着用できるよ～
+【消費数】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=6600,split=0,split=180,split=600,split=900,split=1500,split=3300,split=4500,split=6600>
+
+
+
+
+
+201701110000
+
+201701172359
+
+619,620,621,622,623,624,625,
+
+
+
+
+
+
+
+累计充值奖励
+
+累計儲值獎勵
+
+Charge Prize
+
+累計チャージ
+
+
+
+ype=txt,txtContent=#c98f3d【活动时间】{time}
+【活动介绍】轻音部贝斯手兼伴唱，气质成熟优雅却又有着胆小害羞的一面。活动期间累计充值即可获得稀有形象——秋山澪 ED ver. 这次是否有机会看到蓝白条花纹呢~
+【已充值】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=6600,split=0,split=180,split=600,split=900,split=1500,split=3300,split=4500,split=6600><type=txt,txtContent=#c98f3d【活動時間】{time}
+【活動介紹】輕音部貝斯手兼伴唱，氣質成熟優雅卻又有著膽小害羞的一面。活動期間累計充值即可獲得稀有形象——秋山澪 ED ver. 這次是否有機會看到藍白條花紋呢~
+【已儲值】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=6600,split=0,split=180,split=600,split=900,split=1500,split=3300,split=4500,split=6600><type=txt,txtContent=#c98f3d【Event period】{time}
+【Event description】During the event period，combine charges to get 5 star rare skins——#ff0000Akiyama Mio#c98f3d!Also the most valuable furniture and outfits don't require affection to use~
+【Diamond Charged】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=6600,split=0,split=180,split=600,split=900,split=1500,split=3300,split=4500,split=6600><type=txt,txtContent=#c98f3d【イベント期間】{time}
+【イベント紹介】イベント期間中累計チャージが一定に達するとレアイメージの#ff0000秋山澪#c98f3dがてに入れる！他にもお得の家具や服飾もあります、好感度関係なく着用できるよ～
+【チャージ数】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=6600,split=0,split=180,split=600,split=900,split=1500,split=3300,split=4500,split=6600>
+
+
+
+
+
+201701140000
+
+201701202359
+
+626,627,628,629,630,631,632,
+
+
+
+
+
+
+
+
+
+元旦每日任务
+
+元旦每日任務
+
+New year's mission
+
+元日毎日クエスト
+
+
+
+
+
+type=txt,txtContent=#c98f3d【活动时间】1月1日-1月7日
+【活动介绍】元旦快乐！快来完成新年每日任务，领取丰厚奖励吧，还有大量喵坷垃相送呢！(奖励请在当天领取哦~）>
+
+type=txt,txtContent=#c98f3d【活動時間】1月1日-1月7日
+【活動介紹】元旦快樂！快來完成新年每日任務，領取豐厚獎勵吧，還有大量喵坷垃相送呢！(獎勵請在當天領取哦~）>
+
+type=txt,txtContent=#c98f3d【Event period】1/1~1/7
+【Event description】During the event period，complete New Year's mission to get a lot of prizes(must claim the day of).>
+
+type=txt,txtContent=#c98f3d【イベント期間】1月1日-1月7日
+【イベント紹介】イベント期間中、任務を完了すると豊富なプレゼントが貰えますよ（当日でしか受取れません）>
+      
+
+
+
+
+
+201701010000
+
+201701012359
+
+633,634,635,636,637,
+
+
+
+
+
+
+
+
+
+元旦每日任务
+
+元旦每日任務
+
+New year's mission
+
+元日毎日クエスト
+
+
+
+
+
+type=txt,txtContent=#c98f3d【活动时间】1月1日-1月7日
+【活动介绍】元旦快乐！快来完成新年每日任务，领取丰厚奖励吧，还有大量喵坷垃相送呢！(奖励请在当天领取哦~）>
+
+type=txt,txtContent=#c98f3d【活動時間】1月1日-1月7日
+【活動介紹】元旦快樂！快來完成新年每日任務，領取豐厚獎勵吧，還有大量喵坷垃相送呢！(獎勵請在當天領取哦~）>
+
+type=txt,txtContent=#c98f3d【Event period】1/1~1/7
+【Event description】During the event period，complete New Year's mission to get a lot of prizes(must claim the day of).>
+
+type=txt,txtContent=#c98f3d【イベント期間】1月1日-1月7日
+【イベント紹介】イベント期間中、任務を完了すると豊富なプレゼントが貰えますよ（当日でしか受取れません）>
+      
+
+
+
+
+
+201701020000
+
+201701022359
+
+633,634,635,636,637,
+
+
+
+
+
+*
+
+
+
+
+
+元旦每日任务
+
+元旦每日任務
+
+New year's mission
+
+元日毎日クエスト
+
+
+
+
+
+type=txt,txtContent=#c98f3d【活动时间】1月1日-1月7日
+【活动介绍】元旦快乐！快来完成新年每日任务，领取丰厚奖励吧，还有大量喵坷垃相送呢！(奖励请在当天领取哦~）>
+
+type=txt,txtContent=#c98f3d【活動時間】1月1日-1月7日
+【活動介紹】元旦快樂！快來完成新年每日任務，領取豐厚獎勵吧，還有大量喵坷垃相送呢！(獎勵請在當天領取哦~）>
+
+type=txt,txtContent=#c98f3d【Event period】1/1~1/7
+【Event description】During the event period，complete New Year's mission to get a lot of prizes(must claim the day of).>
+
+type=txt,txtContent=#c98f3d【イベント期間】1月1日-1月7日
+【イベント紹介】イベント期間中、任務を完了すると豊富なプレゼントが貰えますよ（当日でしか受取れません）>
+      
+
+
+
+
+
+201701030000
+
+201701032359
+
+633,634,635,636,637,
+
+
+
+
+
+*
+
+
+
+
+
+元旦每日任务
+
+元旦每日任務
+
+New year's mission
+
+元日毎日クエスト
+
+
+
+
+
+type=txt,txtContent=#c98f3d【活动时间】1月1日-1月7日
+【活动介绍】元旦快乐！快来完成新年每日任务，领取丰厚奖励吧，还有大量喵坷垃相送呢！(奖励请在当天领取哦~）>
+
+type=txt,txtContent=#c98f3d【活動時間】1月1日-1月7日
+【活動介紹】元旦快樂！快來完成新年每日任務，領取豐厚獎勵吧，還有大量喵坷垃相送呢！(獎勵請在當天領取哦~）>
+
+type=txt,txtContent=#c98f3d【Event period】1/1~1/7
+【Event description】During the event period，complete New Year's mission to get a lot of prizes(must claim the day of).>
+
+type=txt,txtContent=#c98f3d【イベント期間】1月1日-1月7日
+【イベント紹介】イベント期間中、任務を完了すると豊富なプレゼントが貰えますよ（当日でしか受取れません）>
+      
+
+
+
+
+
+201701040000
+
+201701042359
+
+633,634,635,636,637,
+
+
+
+
+
+*
+
+
+
+
+
+元旦每日任务
+
+元旦每日任務
+
+New year's mission
+
+元日毎日クエスト
+
+
+
+
+
+type=txt,txtContent=#c98f3d【活动时间】1月1日-1月7日
+【活动介绍】元旦快乐！快来完成新年每日任务，领取丰厚奖励吧，还有大量喵坷垃相送呢！(奖励请在当天领取哦~）>
+
+type=txt,txtContent=#c98f3d【活動時間】1月1日-1月7日
+【活動介紹】元旦快樂！快來完成新年每日任務，領取豐厚獎勵吧，還有大量喵坷垃相送呢！(獎勵請在當天領取哦~）>
+
+type=txt,txtContent=#c98f3d【Event period】1/1~1/7
+【Event description】During the event period，complete New Year's mission to get a lot of prizes(must claim the day of).>
+
+type=txt,txtContent=#c98f3d【イベント期間】1月1日-1月7日
+【イベント紹介】イベント期間中、任務を完了すると豊富なプレゼントが貰えますよ（当日でしか受取れません）>
+      
+
+
+
+
+
+201701050000
+
+201701052359
+
+633,634,635,636,637,
+
+
+
+
+
+*
+
+
+
+
+
+元旦每日任务
+
+元旦每日任務
+
+New year's mission
+
+元日毎日クエスト
+
+
+
+
+
+type=txt,txtContent=#c98f3d【活动时间】1月1日-1月7日
+【活动介绍】元旦快乐！快来完成新年每日任务，领取丰厚奖励吧，还有大量喵坷垃相送呢！(奖励请在当天领取哦~）>
+
+type=txt,txtContent=#c98f3d【活動時間】1月1日-1月7日
+【活動介紹】元旦快樂！快來完成新年每日任務，領取豐厚獎勵吧，還有大量喵坷垃相送呢！(獎勵請在當天領取哦~）>
+
+type=txt,txtContent=#c98f3d【Event period】1/1~1/7
+【Event description】During the event period，complete New Year's mission to get a lot of prizes(must claim the day of).>
+
+type=txt,txtContent=#c98f3d【イベント期間】1月1日-1月7日
+【イベント紹介】イベント期間中、任務を完了すると豊富なプレゼントが貰えますよ（当日でしか受取れません）>
+      
+
+
+
+
+
+201701060000
+
+201701062359
+
+633,634,635,636,637,
+
+
+
+
+
+*
+
+
+
+
+
+元旦每日任务
+
+元旦每日任務
+
+New year's mission
+
+元日毎日クエスト
+
+
+
+
+
+type=txt,txtContent=#c98f3d【活动时间】1月1日-1月7日
+【活动介绍】元旦快乐！快来完成新年每日任务，领取丰厚奖励吧，还有大量喵坷垃相送呢！(奖励请在当天领取哦~）>
+
+type=txt,txtContent=#c98f3d【活動時間】1月1日-1月7日
+【活動介紹】元旦快樂！快來完成新年每日任務，領取豐厚獎勵吧，還有大量喵坷垃相送呢！(獎勵請在當天領取哦~）>
+
+type=txt,txtContent=#c98f3d【Event period】1/1~1/7
+【Event description】During the event period，complete New Year's mission to get a lot of prizes(must claim the day of).>
+
+type=txt,txtContent=#c98f3d【イベント期間】1月1日-1月7日
+【イベント紹介】イベント期間中、任務を完了すると豊富なプレゼントが貰えますよ（当日でしか受取れません）>
+      
+
+
+
+
+
+201701070000
+
+201701072359
+
+633,634,635,636,637,
+
+
+
+
+
+*
