@@ -11214,3 +11214,178 @@ type=txt,txtContent=#c98f3d【イベント期間】1月1日-1月7日
 
 
 *
+
+
+新角色召唤回馈
+
+新角色召喚回饋
+
+Summoning Returns
+
+召喚ボーナス
+
+
+type=txt,txtContent=#c98f3d【活动时间】{time}
+【活动介绍】三笠、羽川翼限时加入卡池！活动期间双倍概率获得！累计使用钻石高级召唤还可领取以下奖励哦~
+【已召唤】#ff0000{value}>
+
+type=txt,txtContent=#c98f3d【活動時間】{time}
+【活動介紹】三笠、羽川翼限時加入卡池！活動期間雙倍概率獲得！累計使用鑽石高級召喚還可領取以下獎勵哦~
+【已召喚】#ff0000{value}>
+
+type=txt,txtContent=#c98f3d【Event period】{time}
+【Event description】Mikasa，Hanekawa Tsubasa is joined in！During the event period，probability of new character is double, and perfom high summoning for big prize.
+【Summoned】#ff0000{value}><type=txt,txtContent=#c98f3d【イベント期間】{time}
+【イベント紹介】ミカサ、羽川翼登場！イベント期間中、新キャラの出現率ダブルアップ！高級召喚を行うと以下のプレゼントが受取れます
+【召喚数】#ff0000{value}>
+
+
+201701210000
+
+201702032359
+
+638,639,640,
+
+
+*
+
+
+新年稀有大派送
+
+新年稀有大派送
+
+Newyear Charge Prize
+
+新年チャージ
+
+
+\<type=txt,txtContent=#c98f3d【活动时间】{time}
+【活动介绍】春节快乐！超多稀有形象等你来！活动期间累计充值即可领取大量5星稀有形象及稀有任选礼包，最高可得#ff00008个稀有形象#c98f3d角色哦！！后两档均为金色最高品质呢！同时开放新的花盆位，可拿到#ff0000第三个花盆#c98f3d~（本命大礼包不包含初音、魔理沙、菈菈、灵梦及三位神秘顾客）
+【已充值】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=28800,split=0,split=3300,split=6600,split=9980,split=16800,split=24800,split=38800>\<type=txt,txtContent=#c98f3d【活動時間】{time}
+【活動介紹】春節快樂！超多稀有形象等你來！活動期間累計充值即可領取大量5星稀有形象及稀有任選禮包，最高可得#ff00008個稀有形象#c98f3d角色哦！！後兩檔均為金色最高品質呢！同時開放新的花盆位，可拿到#ff0000第三個花盆#c98f3d~（本命大禮包不包含初音、魔理沙、菈菈、靈夢及三位神秘顧客）
+【已充值】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=28800,split=0,split=3300,split=6600,split=9980,split=16800,split=24800,split=38800><type=txt,txtContent=#c98f3d【Event period】{time}
+【Event description】During the event period，combine charges to get a lot of 5 star rare skins!Also some Optional Packs，optionally get a 5 star rare image character, with out Miku, Lala, Marisa, Reimu and other Mysterious Customers
+【Diamond Charged】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=28800,split=0,split=3300,split=6600,split=9980,split=16800,split=24800,split=38800><type=txt,txtContent=#c98f3d【イベント期間】{time}
+【イベント紹介】イベント期間中累計チャージが一定に達するとたくさんのレアイメージがてに入れる！他にもオプション福箱。ミク、ララ、魔理沙、霊夢、謎の客人以外に、オプションで星5のレアーイメージ店員一人貰える。
+【チャージ数】#ff0000{value}>
+<type=progressbar_with_scale,min=0,max=28800,split=0,split=3300,split=6600,split=9980,split=16800,split=24800,split=38800>
+
+
+201701210000
+
+201702032359
+
+641,642,643,644,645,646,
+
+
+*
+
+
+欢度春节福利
+
+春節簽到獎勵
+
+New Year Prize
+
+新年ボーナス
+
+
+type=txt,txtContent=#c98f3d【活动时间】{time}
+【活动介绍】春节快乐，大量觉醒卡派送中~每天都有不一样的惊喜哦~
+【已签到天数】#ff0000{value}>
+
+type=txt,txtContent=#c98f3d【活動時間】{time}
+【活動介紹】春節快樂，大量覺醒卡派送中~每天都有不一樣的驚喜哦~
+【已簽到天數】#ff0000{value}>
+
+type=txt,txtContent=#c98f3d【Event Period】{time}
+【Event Description】Check in every day to get exclusive prizes
+【Days Checked In】#ff0000{value}>
+
+type=txt,txtContent=#c98f3d【ボーナス期間】{time}
+【ボーナス紹介】毎日出勤サインをすると、ボーナスが貰えます
+【出勤サイン回数】#ff0000{value}>
+
+
+201701180000
+
+201702202359
+
+647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664,665,666,667,668,669,670,671,672,673,674,675,676,
+
+
+*
+
+
+新年充值返利
+
+新年充值返利
+
+Newyear Benefits
+
+新年特恵
+
+
+type=txt,txtContent=#c98f3d【活动时间】{time}
+【活动介绍】活动期间累计充值即可获得高额钻石返利，150%以上的优惠额度，千万不要错过哦！！
+【已充值】#ff0000{value}>
+
+type=txt,txtContent=#c98f3d【活動時間】{time}
+【活動介紹】活動期間累計充值即可獲得高額鑽石返利，150%以上的優惠額度，千萬不要錯過哦！！
+【已充值】#ff0000{value}>
+
+type=txt,txtContent=#c98f3d【Event period】{time}
+【Event description】During the event period，combine charges daily to get a lot of prizes
+【Diamond Charged】#ff0000{value}>
+
+type=txt,txtContent=#c98f3d【イベント期間】{time}
+【イベント紹介】イベント期間中、每日累計チャージが一定に達すると豊富なプレゼントが貰えますよ
+【チャージ数】#ff0000{value}>
+
+
+201702060000
+
+201702132359
+
+677,678,679,
+
+
+元宵节订单派送
+
+元宵節訂單派送
+
+Moe Delivery
+
+萌えギャル宅配便
+
+
+type=txt,txtContent=#c98f3d【活动时间】{time}
+【活动介绍】到了元宵节，外卖高峰期又来了，元宵节当天完成订单即可领到一套升品卡哦！
+【完成订单】#ff0000{value}>
+      
+
+type=txt,txtContent=#c98f3d【活動時間】{time}
+【活動介紹】到了元宵節，外賣高峰期又來了，元宵節當天完成訂單即可領到一套升品卡哦！
+【完成訂單】#ff0000{value}>
+
+
+type=txt,txtContent=#c98f3d【Event Period】{time}
+【Event Description】During the event period，finish a certain number of order for a big reward 
+【Order Finished】#ff0000{value}>
+
+type=txt,txtContent=#c98f3d【イベント期間】{time}
+【イベント紹介】イベント期間中、累計オーダーを完成すると豊富なプレゼントが貰えますよ
+【完了数】#ff0000{value}>
+      
+
+
+201702110000
+
+201702112359
+
+680,681,682,
+
+
